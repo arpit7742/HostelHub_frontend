@@ -20,7 +20,7 @@ const App = () => {
       <Header />
       <main className="py-3">
         <Container>
-          <Route path="/user/:userId/edit" component={UserEditView} />
+           <Route path="/user/:userId/edit" component={UserEditView} />
           <Route path="/userList" component={UserListView} />
           <Route path="/profile" component={ProfileView} />
           <Route path="/attendance" component={AttendanceView} />
