@@ -44,6 +44,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "resolutions": {
+      "react": "17.0.1",
+      "react-datepicker": "^3.4.1",
+      "create-react-context": "^0.3.0"
+    }
   }
 }
